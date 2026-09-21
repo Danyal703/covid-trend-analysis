@@ -1,0 +1,16 @@
+{
+  "generated_at_utc": "2026-09-21T06:10:41.906192+00:00",
+  "python": "3.12.14",
+  "packages": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2"
+  },
+  "sources": {
+    "confirmed.csv": {
+      "url": "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/4360e50239b4eb6b22f3a1759323748f36752177/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv",
+      "sha256": "e6234a59eec4359d2577358b5220e1a7e3da74c162913cdb7d882db1413f98c2",
+      "bytes": 1819904
+    }
+  }
+}

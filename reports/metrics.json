@@ -1,0 +1,17 @@
+{
+  "source_geographic_rows": 289,
+  "source_daily_cells": 330327,
+  "excluded_non_geographic_rows": 2,
+  "country_day_records": 227457,
+  "countries_and_regions": 199,
+  "negative_country_day_revisions": 171,
+  "first_day_differences_unavailable": 199,
+  "missing_cumulative_values": 0,
+  "date_start": "2020-01-22",
+  "date_end": "2023-03-09",
+  "global_peak_7d_window_end": "2022-01-24",
+  "global_peak_7d_net_cases_per_day": 3436897.1428571427,
+  "final_cumulative_reported_cases": 676569428,
+  "global_negative_revision_days": 0,
+  "method": "Province sums; ship rows excluded; first difference unknown; negative revisions retained; trailing 7-day mean."
+}
