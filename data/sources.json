@@ -1,0 +1,7 @@
+{
+  "confirmed.csv": {
+    "url": "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/4360e50239b4eb6b22f3a1759323748f36752177/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv",
+    "sha256": "e6234a59eec4359d2577358b5220e1a7e3da74c162913cdb7d882db1413f98c2",
+    "bytes": 1819904
+  }
+}
